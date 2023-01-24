@@ -1,1 +1,2 @@
-panic: The API responded with a bad status code (404): {}
+JUST A WORKING EXECUTABLE
+IF YOU WANT BUILD IT BY URSELF GO TO https://github.com/alexandregv/RP42
